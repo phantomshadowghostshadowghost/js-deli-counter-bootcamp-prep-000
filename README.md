@@ -1,4 +1,5 @@
-# Deli Counter Lab
+
+(po# Deli Counter Lab
 
 ## Objectives
 1. Add elements to an array
